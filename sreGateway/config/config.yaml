@@ -1,0 +1,15 @@
+app:
+  appName: sreGateway v1.0.0
+  host: "0.0.0.0"
+  port: 10086
+  unescapePath: true
+  strictRouting: true
+  disableStartupMessage: true
+  serverHeader: sreGateway
+  enablePrintRoutes: true
+mysql:
+  database: "sreGateway"
+  host: "localhost"
+  port: "3306"
+  user: "root"
+  pwd: "aa123456"
